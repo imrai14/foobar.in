@@ -1,0 +1,26 @@
+{
+  "name": "fooBookAngular",
+  "version": "0.0.0",
+  "description": "this app is just for demo",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "foobook"
+  ],
+  "authors": [
+    "shubham"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.5.5",
+    "bootstrap": "~3.3.6"
+  }
+}
